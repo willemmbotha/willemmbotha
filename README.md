@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @willemmbotha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Willem Botha
+- 👀 I’m interested in drones.
+- 🌱 I’m currently learning Angular.
+- ⚡ Fun fact: I like ice cream.
 
 <!---
 willemmbotha/willemmbotha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
